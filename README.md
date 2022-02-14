@@ -1,0 +1,1 @@
+Hello World! Meu nome é Eduardo Bernardes, meu interesse é estar qualificado, ter o conhecimento para atuar como desenvolvedor full-stack. Hoje em freelance trabalho mais voltado para o front-end e em empresa privada trabalho como desenvolvedor júnior C#. Entrando no GitHub para adquirir mais conhecimentos e também compartilhar meus projetos! (:
